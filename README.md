@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>“Move silently. Attack precisely. Leave nothing but shadows.”</em>
+  <em>“JavaScript • TypeScript • Node.js • React • Next.js • Python”</em>
 </p>
 
 ---
