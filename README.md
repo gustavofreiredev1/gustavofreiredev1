@@ -1,4 +1,4 @@
-<h1 align="center">👻 Phantom — Red Team & Offensive Security Specialist</h1>
+<h1 align="center">👻 Red Team & Offensive Security Specialist</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive%20Security-Active-red?style=for-the-badge"/>
@@ -108,5 +108,5 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 ---
 
 <div align="center">
-  <strong>👻 Stay Low. Stay Silent. Stay Phantom.</strong>
+  <strong>👻 Desenvolvimento Web (Front-end & Back-end).</strong>
 </div>
