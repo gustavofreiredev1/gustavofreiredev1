@@ -65,20 +65,6 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 ## 🔥 Stats
 
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
-
-### ⚡ Linguagens Mais Usadas
-<p align="center">
-  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=gustavofreiredev1&theme=github-dark&hide_border=true" />
-</p>
 
 
 
@@ -91,9 +77,7 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 
   <!-- Ferramentas OffSec -->
   <img src="https://skillicons.dev/icons?i=linux,github&theme=dark" />
-</p>
 
-<p align="center">
   <img src="https://img.shields.io/badge/Pentesting-Web%20%7C%20Infra-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Recon-OSINT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-green?style=for-the-badge" />
