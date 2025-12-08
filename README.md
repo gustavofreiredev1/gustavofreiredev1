@@ -63,9 +63,23 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 # 📊 Estatísticas (Versão Hacker Premium – SEM ERROS)
 
 ## 🔥 Stats
+
+
+### 🔥 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
+
+### ⚡ Linguagens Mais Usadas
+<p align="center">
+  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=gustavofreiredev1&theme=github-dark&hide_border=true" />
+</p>
+
 
 
 ## 🛡️ Linguagens & Ferramentas
