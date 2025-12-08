@@ -92,10 +92,6 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
   <img src="https://github-profile-trophy.vercel.app/?username=gustavofreiredev1&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
-## 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavofreiredev1/gustavofreiredev1/main/output/snake.svg" />
-</p>
 
 ---
 
@@ -105,8 +101,8 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 ---
 
 ## 📬 Contato
-📧 Email: seuemail@dominio.com  
-🔗 LinkedIn: https://linkedin.com/in/seulink  
+📧 Email: gustavofreiregm@gmail.com
+🔗 LinkedIn: linkedin.com/in/gustavofreiredev
 🐱 GitHub: https://github.com/gustavofreiredev1  
 
 ---
