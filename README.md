@@ -64,13 +64,15 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 
 ## 🔥 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
+
 
 ## ⚡ Linguagens
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 
 ## 🧨 Streak Stats
 <p align="center">
