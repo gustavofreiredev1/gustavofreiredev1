@@ -14,40 +14,42 @@
 
 ## 🧭 Sobre mim
 
-Profissional focado em **Segurança Ofensiva**, especializado em:
+Profissional focado em **Segurança Ofensiva**, com experiência em:
 
 - Pentest Web & Infraestrutura  
-- Operações de **Red Team**  
+- Operações de Red Team  
 - Recon & Enumeração avançada  
 - Exploração de vulnerabilidades  
 - Automação ofensiva (Python & Bash)  
 - Hardening extremo em Kali Linux  
 
+Sempre aprimorando técnicas, criando ferramentas e explorando laboratórios reais.
+
 ---
 
 ## ⚙️ Tech Stack
 
-**Offensive Security**  
-`Burp Suite` · `Nmap` · `Masscan` · `Metasploit` · `Hydra`  
+**Offensive:**  
+`Burp Suite` · `Nmap` · `Masscan` · `Hydra` · `Metasploit`  
 `SQLmap` · `ffuf` · `dirsearch` · `httpx` · `subfinder` · `Amass`
 
-**Automação & Dev**  
+**Automação & Code:**  
 `Python` · `Bash` · `Shell Script`
 
-**Sistemas**  
+**Sistemas:**  
 `Linux` · `Kali` · `Debian` · `Hardening`
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-### **PhantomRecon – Recon Automatizado**
+### **PhantomRecon — Recon Automatizado**
 Pipeline com Subfinder, Amass, httpx e ffuf.
 
-### **LFI-Hunter – Scanner de LFI**
+### **LFI-Hunter — Scanner de LFI**
 Validação de padrões sensíveis + fuzzing inteligente.
 
-### **Kali Hardening – Phantom Mode**
+### **Kali Hardening — Phantom Mode**
 Hardening completo: sysctl, ARP, kernel, auditd, ZSH Hardened.
 
 ### **Phantom PortScanner**
@@ -58,31 +60,31 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 
 ---
 
-# 📊 Estatísticas (Hacker Premium)
+# 📊 Estatísticas (Versão Hacker Premium – SEM ERROS)
 
-### **Stats**
+## 🔥 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
-### **Linguagens**
+## ⚡ Linguagens
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-### **Streak Stats**
+## 🧨 Streak Stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=gustavofreiredev1&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=gustavofreiredev1&theme=github-dark&hide_border=true" />
 </p>
 
-### **Troféus**
+## 🏆 Troféus
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavofreiredev1&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavofreiredev1&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
-### **Snake Animation**
+## 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavofreiredev1/gustavofreiredev1/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/gustavofreiredev1/gustavofreiredev1/main/output/snake.svg" />
 </p>
 
 ---
