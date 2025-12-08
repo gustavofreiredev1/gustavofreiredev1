@@ -100,7 +100,9 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 
 ## 📬 Contato
 📧 Email: gustavofreiregm@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/gustavofreiredev
+
 🐱 GitHub: https://github.com/gustavofreiredev1  
 
 ---
