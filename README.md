@@ -68,9 +68,21 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 </p>
 
 
-## ⚡ Linguagens
+## 🛡️ Linguagens & Ferramentas
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-zeta-one-39.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=github_dark&hide_border=true" />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark" />
+  <br/>
+
+  <!-- Ferramentas OffSec -->
+  <img src="https://skillicons.dev/icons?i=linux,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentesting-Web%20%7C%20Infra-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recon-OSINT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-green?style=for-the-badge" />
 </p>
 
 
