@@ -18,62 +18,54 @@ Profissional focado em **Segurança Ofensiva**, especializado em:
 
 - Pentest Web & Infraestrutura  
 - Operações de **Red Team**  
-- Recon e Enumeração avançada  
+- Recon & Enumeração avançada  
 - Exploração de vulnerabilidades  
-- Automação ofensiva com Python & Bash  
-- Hardening profundo em ambientes Linux  
-
-Aprimorando habilidades diariamente em laboratórios, CTFs e projetos ofensivos reais.
+- Automação ofensiva (Python & Bash)  
+- Hardening extremo em Kali Linux  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🔥 Segurança Ofensiva
-`Burp Suite` · `Nmap` · `Masscan` · `Hydra` · `Metasploit`  
-`SQLmap` · `ffuf` · `dirsearch` · `httpx` · `subfinder` · `Amass`  
-`Wireshark` · `tcpdump`
+**Offensive Security**  
+`Burp Suite` · `Nmap` · `Masscan` · `Metasploit` · `Hydra`  
+`SQLmap` · `ffuf` · `dirsearch` · `httpx` · `subfinder` · `Amass`
 
-### 🧩 Automação e Programação
+**Automação & Dev**  
 `Python` · `Bash` · `Shell Script`
 
-### 🐧 Sistemas
-`Kali Linux` · `Debian` · `Hardening` · `Networking`
+**Sistemas**  
+`Linux` · `Kali` · `Debian` · `Hardening`
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-### **PhantomRecon — Recon & Enumeração Automatizada**
-Pipeline completo com Subfinder, Amass, httpx e ffuf.
+### **PhantomRecon – Recon Automatizado**
+Pipeline com Subfinder, Amass, httpx e ffuf.
 
-### **LFI-Hunter — Scanner de LFI**
-Ferramenta com heurísticas de detecção e payload rotation.
+### **LFI-Hunter – Scanner de LFI**
+Validação de padrões sensíveis + fuzzing inteligente.
 
-### **Kali Hardening — Phantom Mode**
-Configurações de hardening que eu utilizo no meu ambiente real:
-- sysctl reforçado  
-- proteção ARP & redirects  
-- ZSH Hardened  
-- auditd configurado  
-- kernel lock  
+### **Kali Hardening – Phantom Mode**
+Hardening completo: sysctl, ARP, kernel, auditd, ZSH Hardened.
 
 ### **Phantom PortScanner**
-Port scanner rápido com sockets e threads em Python.
+Port scanner multithread em Python.
 
-### **CTF Writeups — Offensive Path**
-Writeups de máquinas (HTB, THM, VulnHub).
+### **CTF Writeups**
+Exploração completa de máquinas (HTB, THM, VulnHub).
 
 ---
 
-# 📊 Estatísticas (Versão Hacker Premium)
+# 📊 Estatísticas (Hacker Premium)
 
-### **Stats Principal**
+### **Stats**
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavofreiredev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-### **Linguagens Mais Usadas**
+### **Linguagens**
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavofreiredev1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -101,9 +93,9 @@ Writeups de máquinas (HTB, THM, VulnHub).
 ---
 
 ## 📬 Contato
-**Email:** seuemail@dominio.com  
-**LinkedIn:** https://linkedin.com/in/seulink  
-**GitHub:** https://github.com/gustavofreiredev1  
+📧 Email: seuemail@dominio.com  
+🔗 LinkedIn: https://linkedin.com/in/seulink  
+🐱 GitHub: https://github.com/gustavofreiredev1  
 
 ---
 
