@@ -60,10 +60,8 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 
 ---
 
-# 📊 Estatísticas 
+# 📊 Linguagens e Ferramentas
 
-
-## 🛡️ Linguagens & Ferramentas
 
 <p align="center">
   <!-- Linguagens -->
