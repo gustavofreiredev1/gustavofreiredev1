@@ -94,7 +94,7 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 ---
 
 ## 🎯 Filosofia Hacker  
-> **Código forte. Segurança forte”**
+> **Código forte. Segurança forte**
 
 ---
 
