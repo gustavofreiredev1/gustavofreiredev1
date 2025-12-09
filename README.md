@@ -94,7 +94,7 @@ Exploração completa de máquinas (HTB, THM, VulnHub).
 ---
 
 ## 🎯 Filosofia Hacker  
-> **“O atacante não segue regras — ele cria caminhos.”**
+> **Código forte. Segurança forte”**
 
 ---
 
