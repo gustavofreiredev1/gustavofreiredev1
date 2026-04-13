@@ -1,112 +1,117 @@
-<h1 align="center">👻 Red Team & Offensive Security Specialist</h1>
+<h1 align="center">💻 Full Stack Developer & Creative Designer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive%20Security-Active-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-User-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Red%20Team-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Development-Full%20Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Apps-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <em>“JavaScript • TypeScript • Node.js • React • Next.js • Python”</em>
+  <em>“JavaScript • TypeScript • React • Node.js • Next.js • UI/UX”</em>
 </p>
 
 ---
 
 ## 🧭 Sobre mim
 
-Profissional focado em **Segurança Ofensiva**, com experiência em:
+Desenvolvedor **Full Stack** com foco em criar aplicações modernas, performáticas e bem estruturadas, unindo:
 
-- Pentest Web & Infraestrutura  
-- Operações de Red Team  
-- Recon & Enumeração avançada  
-- Exploração de vulnerabilidades  
-- Automação ofensiva (Python & Bash)  
-- Hardening extremo em Kali Linux  
+- Desenvolvimento Front-end e Back-end  
+- Criação de interfaces modernas (UI/UX)  
+- Arquitetura escalável de aplicações  
+- Integração com APIs e serviços  
+- Performance e otimização  
+- Design centrado no usuário  
 
-Sempre aprimorando técnicas, criando ferramentas e explorando laboratórios reais.
+Sempre buscando desenvolver soluções completas — do conceito ao deploy.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Offensive:**  
-`Burp Suite` · `Nmap` · `Masscan` · `Hydra` · `Metasploit`  
-`SQLmap` · `ffuf` · `dirsearch` · `httpx` · `subfinder` · `Amass`
+**Front-end:**  
+`React` · `Next.js` · `TypeScript` · `JavaScript`  
+`HTML` · `CSS` · `Tailwind` · `Styled Components`
 
-**Automação & Code:**  
-`Python` · `Bash` · `Shell Script`
+**Back-end:**  
+`Node.js` · `Express` · `APIs REST` · `JWT Auth`
 
-**Sistemas:**  
-`Linux` · `Kali` · `Debian` · `Hardening`
+**Banco de Dados:**  
+`MongoDB` · `PostgreSQL` · `MySQL`
+
+**Design & UI/UX:**  
+`Figma` · `Responsividade` · `Design Systems`
+
+**Ferramentas:**  
+`Git` · `GitHub` · `Docker` · `Vercel` · `Linux`
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-### **PhantomRecon — Recon Automatizado**
-Pipeline com Subfinder, Amass, httpx e ffuf.
+### **🚀 DevPortfolio Pro**
+Portfólio profissional moderno com animações, responsividade e SEO otimizado.
 
-### **LFI-Hunter — Scanner de LFI**
-Validação de padrões sensíveis + fuzzing inteligente.
+### **🛒 E-Commerce Full Stack**
+Sistema completo com autenticação, carrinho, pagamentos e dashboard admin.
 
-### **Kali Hardening — Phantom Mode**
-Hardening completo: sysctl, ARP, kernel, auditd, ZSH Hardened.
+### **📊 Dashboard Analytics**
+Painel com gráficos dinâmicos e consumo de APIs em tempo real.
 
-### **Phantom PortScanner**
-Port scanner multithread em Python.
+### **📱 UI Kit & Design System**
+Biblioteca reutilizável de componentes com foco em consistência visual.
 
-### **CTF Writeups**
-Exploração completa de máquinas (HTB, THM, VulnHub).
+### **🔗 API Hub**
+API REST escalável com autenticação, logs e boas práticas de arquitetura.
 
 ---
 
 # 📊 Linguagens e Ferramentas
 
-
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python&theme=dark" />
   <br/>
 
-  <!-- Ferramentas OffSec -->
-  <img src="https://skillicons.dev/icons?i=linux,github&theme=dark" />
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pentesting-Web%20%7C%20Infra-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recon-OSINT-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Modern%20UI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-UX%20Focused-purple?style=for-the-badge" />
 </p>
 
-
+---
 
 ## 🧨 Streak Stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=gustavofreiredev1&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🏆 Troféus
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavofreiredev1&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
-
 
 ---
 
-## 🎯 Filosofia Hacker  
-> **Código forte. Segurança forte**
+## 🎯 Filosofia  
+> **Código limpo. Design inteligente. Experiência marcante.**
 
 ---
 
 ## 📬 Contato
-📧 Email: gustavofreiregm@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/gustavofreiredev
+📧 Email: seuemail@email.com  
 
-🐱 GitHub: https://github.com/gustavofreiredev1  
+🔗 LinkedIn: https://linkedin.com/in/seuusuario  
+
+🐱 GitHub: https://github.com/seuusuario  
 
 ---
 
 <div align="center">
-  <strong>👻 Desenvolvimento Web (Front-end & Back-end).</strong>
+  <strong>🚀 Construindo experiências digitais completas — do design ao código.</strong>
 </div>
