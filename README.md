@@ -104,11 +104,11 @@ API REST escalável com autenticação, logs e boas práticas de arquitetura.
 
 ## 📬 Contato
 
-📧 Email: seuemail@email.com  
+📧 Email: gustavofreireeditor@gmail.com  
 
-🔗 LinkedIn: https://linkedin.com/in/seuusuario  
+🔗 LinkedIn: https://linkedin.com/in/gustavofreiredev/ 
 
-🐱 GitHub: https://github.com/seuusuario  
+🐱 GitHub: https://github.com/gustavofreiredev1/
 
 ---
 
